@@ -1,2 +1,2 @@
 # VGAStrategies
-VGAStrategies: unmanaged orders aproach 
+VGAStrategies: AlgoBase with unmanaged orders aproach. 
